@@ -28,4 +28,6 @@ heading.innerText="Welcome New"
 
 heading.innerHTML="<i>Welcome italic<i/>"
 
+heading.tagName
+
 // heading.textContent()
